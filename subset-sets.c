@@ -36,7 +36,7 @@ int main()
         }
 
     }while(element2!=0);
-    n2=n3;
+    n2=n3; 
 
  
     
